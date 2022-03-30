@@ -4,6 +4,7 @@ description: Analytical graph (melodic and rhythmic reductions) of mm. 1-16 of C
   Etude Op. 25 No. 2 in F minor.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21m-350-musical-analysis-spring-2008/2bf11f1ef0cf151488fe17581dd6974a_chopin_etude.pdf
 file_type: application/pdf
+parent_uid: dc95ec9b-f4a2-3fd4-339b-403c28dab21d
 resourcetype: Document
 title: chopin_etude.pdf
 uid: 2bf11f1e-f0cf-1514-88fe-17581dd6974a
